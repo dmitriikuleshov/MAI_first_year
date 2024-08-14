@@ -1,0 +1,30 @@
+[submodule "MAI_labs"]
+	path = MAI_labs
+	url = git@github.com:dmitriikuleshov/MAI_labs.git
+[submodule "mlab24"]
+	path = mlab24
+	url = git@github.com:dmitriikuleshov/mlab24.git
+[submodule "cr9"]
+	path = cr9
+	url = git@github.com:dmitriikuleshov/cr9.git
+[submodule "cr8"]
+	path = cr8
+	url = git@github.com:dmitriikuleshov/cr8.git
+[submodule "mlab26"]
+	path = mlab26
+	url = git@github.com:dmitriikuleshov/mlab26.git
+[submodule "cr6"]
+	path = cr6
+	url = git@github.com:dmitriikuleshov/cr6.git
+[submodule "discr_CW"]
+	path = discr_CW
+	url = git@github.com:dmitriikuleshov/discr_CW.git
+[submodule "malb23"]
+	path = malb23
+	url = git@github.com:dmitriikuleshov/malb23.git
+[submodule "mlabs2"]
+	path = mlabs2
+	url = git@github.com:dmitriikuleshov/mlabs2.git
+[submodule "varkt_2023"]
+	path = varkt_2023
+	url = git@github.com:dmitriikuleshov/varkt_2023.git
